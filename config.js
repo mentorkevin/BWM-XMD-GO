@@ -412,7 +412,7 @@ module.exports = {
     MENU_STATS_LINE: process.env.MENU_STATS_LINE || "│⭐ ",
     MENU_BOTTOM_DIVIDER: process.env.MENU_BOTTOM_DIVIDER || "└─────────────┈⳹",
     
-    FOOTER: process.env.BOT_FOOTER || '\n\nFor more info visit: bwmxmd.online\n\n®2025 ʙᴡᴍ xᴍᴅ 🔥',
+    FOOTER: process.env.BOT_FOOTER || '\n\nFor more info visit: my profile\n\n®2025 ʙᴡᴍ xᴍᴅ 🔥',
     DATABASE_URL,
     DATABASE: DATABASE_URL === databasePath
         ? "postgresql://postgres:bKlIqoOUWFIHOAhKxRWQtGfKfhGKgmRX@viaduct.proxy.rlwy.net:47738/railway"
