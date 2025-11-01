@@ -11,7 +11,7 @@
 
 <!-- Profile Card -->
 <p align="center">
-  <img src="https://files.catbox.moe/c07f3s.jpeg" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
+  <img src="https://res.cloudinary.com/dh5gg5p6a/image/upload/v1762017445/44fc16cf1a054e12b7b9014bcad2c385_dthtjt.jpg" width="210" height="210" style="border-radius:50%; box-shadow:0 0 25px #00ffea;">
 </p>
 
 
