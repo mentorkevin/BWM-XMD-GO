@@ -22,7 +22,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <a href="https://url.bwmxmd.online/Adams.gbv0odfp.jpg">
+  <a href="https://res.cloudinary.com/dh5gg5p6a/image/upload/v1762017445/44fc16cf1a054e12b7b9014bcad2c385_dthtjt.jpg">
     <img src="https://url.bwmxmd.online/Adams.gbv0odfp.jpg" width="100%" height="auto">
   </a>
 </p>
