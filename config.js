@@ -406,7 +406,7 @@ module.exports = {
     MENU_BOTTOM_LEFT: process.env.MENU_BOTTOM_LEFT || "└┬❖",
     MENU_GREETING_LINE: process.env.MENU_GREETING_LINE || "┌┤ ",
     MENU_DIVIDER: process.env.MENU_DIVIDER || "│└────────┈⳹",
-    MENU_USER_LINE: process.env.MENU_USER_LINE || "│🕵️ ",
+    MENU_USER_LINE: process.env.MENU_USER_LINE || "│🐉 ",
     MENU_DATE_LINE: process.env.MENU_DATE_LINE || "│📅 ",
     MENU_TIME_LINE: process.env.MENU_TIME_LINE || "│⏰ ",
     MENU_STATS_LINE: process.env.MENU_STATS_LINE || "│⭐ ",
