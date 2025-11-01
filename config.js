@@ -396,9 +396,9 @@ module.exports = {
     
     
     BOT_URL: process.env.BOT_URL ? process.env.BOT_URL.split(',') : [
-        'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879883/whatsapp_uploads/e3eprzkzxhwfx7pmemr5.jpg',
-        'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879901/whatsapp_uploads/hqagxk84idvf899rhpfj.jpg',
-        'https://res.cloudinary.com/dptzpfgtm/image/upload/v1748879921/whatsapp_uploads/bms318aehnllm6sfdgql.jpg'
+        'https://res.cloudinary.com/dh5gg5p6a/image/upload/v1762013205/picture_3_tgf1cf.png',
+        'https://res.cloudinary.com/dh5gg5p6a/image/upload/v1762013107/picture_0_xgvl1i.png',
+        'https://res.cloudinary.com/dh5gg5p6a/image/upload/v1761938251/WhatsApp_Image_2025-10-31_at_22.17.08_ab9be42e_ryilsq.jpg'
     ],
     
     MENU_TOP_LEFT: process.env.MENU_TOP_LEFT || "┌─❖",
