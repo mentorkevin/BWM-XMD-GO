@@ -358,7 +358,7 @@ module.exports = {
     session: process.env.SESSION_ID || '',
     sessionId: hybridConfig.getSessionId(),
     PREFIX: process.env.PREFIX || ".",
-    GURL: 'https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y',
+    GURL: 'https://wa.link/tygtw8',
     OWNER_NAME: process.env.OWNER_NAME || "Ibrahim Adams",
     OWNER_NUMBER: process.env.OWNER_NUMBER || "",
     BOT: process.env.BOT_NAME || 'BMW_MD',
