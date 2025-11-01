@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=⚡+BWM+XMD+QUANTUM+VERSION;🔥+The+Most+Powerful+WhatsApp+Bot;💻+Crafted+by+Ibrahim+Adams;🚀+Next-Gen+Quantum+Technology;🌈+Fast+⚡+Secure+🔒+Reliable+✅" alt="Typing Animation">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=B92AF7&background=000000F0&width=435&lines=FAST%E2%9C%94++SECURE%F0%9F%91%80;CONTRIBUTIONS+ARE+WELCOMED%F0%9F%98%8E;BUY+ME+A+COFFEE%E2%98%95" alt="Typing SVG" /></a>
 </h1>
 
 <!-- Profile Card -->
